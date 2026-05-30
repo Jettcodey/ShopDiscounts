@@ -1,5 +1,8 @@
 # Shop Discounts
 
+> [!WARNING] 
+> Source-Available aka "Read-Only" source code repository.
+
 When the shop loads a discount is rolled and applied to all items put into the Shop Extraction Point.
 
 The Discount percentage is shown on the extraction next to the money left after purrchase.
